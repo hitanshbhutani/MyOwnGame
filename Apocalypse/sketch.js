@@ -7,13 +7,13 @@ var gamestate = "begin";
 var delay = 80;
 
 function preload(){
-    cowboyImage = loadImage("./Cowboy.png");
-    deadZombieImage = loadImage("./Dead Zombie.png");
-    zombieImage = loadImage("./Zombie.png");
-    explosionImage = loadImage("./explosion.png");
-    gameoverImage = loadImage("./gameover.png");
-    textImage = loadImage("./text.png");
-    introImage = loadImage("./intro.png");
+    cowboyImage = loadImage("../Cowboy.png");
+    deadZombieImage = loadImage("../Dead Zombie.png");
+    zombieImage = loadImage("../Zombie.png");
+    explosionImage = loadImage("../explosion.png");
+    gameoverImage = loadImage("../gameover.png");
+    textImage = loadImage("../text.png");
+    introImage = loadImage("../intro.png");
 
 }
 function setup(){
