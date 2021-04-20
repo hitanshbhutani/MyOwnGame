@@ -11,7 +11,7 @@ function preload(){
     deadZombieImage = loadImage("../Dead Zombie.png");
     zombieImage = loadImage("../Zombie.png");
     explosionImage = loadImage("../explosion.png");
-    gameoverImage = loadImage("../gameover.png");
+    gameoverImage = loadImage("../Gameover.png");
     textImage = loadImage("../text.png");
     introImage = loadImage("../intro.png");
 
